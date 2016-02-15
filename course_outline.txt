@@ -1,0 +1,62 @@
+PIF MCU COURSE OUTLINE - v1.0.0
+January 13th, 2016
+
+References: 
+1. Renesas Course : http://www.renesas.eu/edge_ol/engineer/index.jsp
+2. C++: The Complete Reference, 4th Edition - Herbert Schildt
+
+Chapter 0: Basic of programming language C
+I. Expressions
+	1.1 Five basic datatypes
+	1.2 Identifiers Name
+	1.3 Variables
+	1.4 Operators
+II. Statements
+	2.1 Branching Statements
+	2.2 Iteration	
+III. Array and String
+	3.1 Single-dimensions array
+	3.2 Multi-dimensions array
+	3.2 Array Initialization
+IV. Pointers
+	4.1 Pointer Variables
+	4.2 Pointer Operation
+	4.3 Pointer Expression	
+V. Functions
+	5.1 General form of a functions
+	5.2 Function arguments
+	5.3 Funtion prototypes
+	5.4 Scope rules of functions
+VI. Structure and other user-defined types
+	6.1 Structures
+	6.2 Typedef
+	6.3 Union and Enum
+	
+Chapter 1: Introduction to microcontrollers
+I. MCU basic structure and operation
+	1.1 MCU - the brain that controls hardware
+	1.2 CPU - The "thinker"
+	1.3 Memory - The store
+	1.4 Why do we use MCUs?
+II. Programming language
+	2.1 Machine Language
+	2.2 C Programming Language
+	2.3 Debuggers
+	2.4 Intergrated Development Program
+III. Control of external circuit
+IV. Interrupt Processing
+	4.1 Interrupts and Polling
+	4.2 Interrupt Processing by MCU
+
+Chapter 2: Essentials of MCU Use
+I. GPIO
+II. Interrupts
+III. Timers	
+IV. Serial Communications
+	4.1 SPI
+	4.2 I2C
+	4.3 UART
+
+Chapter 3: Graphic User Interface (Qt or C# ?)
+
+
